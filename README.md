@@ -6,9 +6,9 @@ Google Search Lead Generation Scraper is a powerful tool designed to automate th
 
 - [Features](#features)
 - [Clone the respository](#clonerepository)
-- [Mac Version Usage](#macusage)
-- [Winsodws Version Usage](#windowsusage)
-- [Linux Version Usage](#linuxusage)
+- [Mac Version Usage](#macversionusage)
+- [Winsodws Version Usage](#windowsversionusage)
+- [Linux Version Usage](#linuxversionusage)
 - [Contact](#contact)
 
 ## Features
